@@ -4,6 +4,7 @@ const Footer = () => {
 	return (
 		<React.Fragment>
 			<footer>
+				<p>designed & developed by "ankit"</p>
 				<p>Copyright ⓒ {currentYear}</p>
 			</footer>
 		</React.Fragment>
